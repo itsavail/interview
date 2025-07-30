@@ -10,7 +10,7 @@ What we look for in the output:
 
 ## The Challenge: Text-to-Speech Support
 
-This assignment is designed to test your ability to build a tangible feature with a semi-contrained, semi-openended prompt. There's a range of considerations, including third-party API integration, determining a good user experience, and evaluating trade-offs.
+This assignment is designed to test your ability to build a tangible feature with a semi-constrained, semi-openended prompt. There's a range of considerations, including third-party API integration, determining a good user experience, and evaluating trade-offs.
 
 ![image](https://github.com/zest-world/interview/assets/4218998/5dc5101c-70d9-4533-af0d-8bb02eb711bd)
 
